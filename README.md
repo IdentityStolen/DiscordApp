@@ -19,6 +19,12 @@ Please spend up to two hours implementing the frontend and backend for a message
 
 ![Reactions UI demonstration](example.gif)
 
+## FAQ
+
+if `yarn start` below fails please run following in your terminal
+
+`export NODE_OPTIONS=--openssl-legacy-provider` and run `yarn start` again.
+
 ## Running locally
 
 - `yarn` — Installs dependencies
