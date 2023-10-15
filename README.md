@@ -25,6 +25,8 @@ if `yarn start` below fails please run following in your terminal
 
 `export NODE_OPTIONS=--openssl-legacy-provider` and run `yarn start` again.
 
+reference: https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
+
 ## Running locally
 
 - `yarn` — Installs dependencies
